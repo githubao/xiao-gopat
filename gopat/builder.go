@@ -1,4 +1,4 @@
-// 构造器
+// 构造器：builds a complex object using simple objects
 // author: baoqiang
 // time: 2020/10/29 7:42 下午
 package gopat

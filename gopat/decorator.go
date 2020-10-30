@@ -1,4 +1,4 @@
-// 装饰器模式
+// 装饰器模式：Adds behavior to an object, statically or dynamically
 // author: baoqiang
 // time: 2020/10/29 9:13 下午
 package gopat

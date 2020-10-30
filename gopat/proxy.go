@@ -1,4 +1,4 @@
-// 代理模式
+// 代理模式：provides a surrogate for an object to control it's actions
 // author: baoqiang
 // time: 2020/10/29 9:18 下午
 package gopat

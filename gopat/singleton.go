@@ -1,4 +1,4 @@
-// 单例模式
+// 单例模式：restricts instantiation of a type to one object
 // author: baoqiang
 // time: 2020/10/29 9:08 下午
 package gopat

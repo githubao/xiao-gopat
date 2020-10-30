@@ -1,4 +1,4 @@
-// 对象池
+// 对象池：instantiates and maintains a group of objects instances of the same type
 // author: baoqiang
 // time: 2020/10/29 8:33 下午
 package gopat

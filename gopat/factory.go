@@ -1,4 +1,4 @@
-// 工厂模式
+// 工厂模式：defers instantiation of an object to a specialized function for creating instances
 // author: baoqiang
 // time: 2020/10/29 8:18 下午
 package gopat
